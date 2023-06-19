@@ -1,26 +1,29 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: HK_2018.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # address: >
+  #   <p>Room 5020, CMC building</p>
+  #   <p>City University of HK</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candiate at City University of Hong Kong under the supervision of [Prof. Rynson W.H. Lau](https://www.cs.cityu.edu.hk/~rynson/). Before that I received my bachelor degree in Computer Science and Engineering from [Dalian University of Technology](https://en.dlut.edu.cn/) (GPA rank 1/102).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently focusing on vision transformer (specifically, [attention mechanism](https://arxiv.org/abs/2303.08810) & pretraining). I am also intrested in hardware-aware deep learning (e.g. works like [FlashAttention](https://arxiv.org/abs/2205.14135) and [TinyCudaNN](https://github.com/NVlabs/tiny-cuda-nn)). I believe in simple and scalable architectures and data-centric deep learning.
+<!-- (that is, I do not believe that the machine intelligence comes with elaborate and often intricate network modules :)). -->
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, I have some experience in 3D vision ([camera-LiDAR calibration](https://github.com/rayleizhu/plcc) and neural radiance field) and [semi-supervised learning](). 
+
+<span style="color:red">I am on the job market. If you have any openings related to vision-language models, hardware-aware/efficient neural network design & deployment, or neural rendering, I would like to get in contact!</span>.
