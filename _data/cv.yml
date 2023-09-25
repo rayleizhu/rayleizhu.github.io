@@ -4,7 +4,7 @@
     - name: Full Name
       value: ZHU Lei
     - name: Languages
-      value: English, Mandarin
+      value: Mandarin, English
 
 - title: Education
   type: time_table
@@ -42,6 +42,11 @@
       items:
         - Novel view synthesis & volume rendering.
         - Inverse rendering, i.e. get mesh and materials from multi-view images.
+
+- title: Academic Services
+  type: list
+  contents:
+    - CVPR, ECCV, ICCV, NeurIPS, ICLR, IJCV, MM
 
 - title: Other Interests
   type: list
