@@ -32,6 +32,9 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/github.css" media="" id="highlight_theme_light">
 
     
+    <!-- Sidebar Table of Contents -->
+    <link href="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.css" rel="stylesheet">
+    
 
     <!-- Styles -->
     
@@ -109,7 +112,15 @@
     <!-- Content -->
     <div class="container mt-5">
       
-        <!-- _layouts/post.html -->
+        
+        <div class="row">
+          <!-- sidebar, which will move to the top on a small screen -->
+          <div class="col-sm-3">
+            <nav id="toc-sidebar" class="sticky-top"></nav>
+          </div>
+          <!-- main content area -->
+          <div class="col-sm-9">
+            <!-- _layouts/post.html -->
 
 <div class="post">
 
@@ -127,16 +138,6 @@
   </header>
 
   <article class="post-content">
-    
-    <div id="table-of-contents">
-      <ul id="toc" class="section-nav">
-<li class="toc-entry toc-h2"><a href="#%E7%94%9F%E6%88%90%E5%99%A8%E4%B8%8E%E5%88%A4%E5%88%AB%E5%99%A8">“生成器”与“判别器”</a></li>
-<li class="toc-entry toc-h2"><a href="#%E5%AD%A6%E6%9C%AF%E5%BD%B1%E5%93%8D%E5%8A%9B%E5%92%8C%E5%AD%A6%E6%9C%AF%E8%B4%A1%E7%8C%AE">学术影响力和学术贡献</a></li>
-<li class="toc-entry toc-h2"><a href="#%E8%87%AA%E6%B4%BD%E4%B8%8E%E5%8C%85%E5%AE%B9">自洽与包容</a></li>
-<li class="toc-entry toc-h2"><a href="#%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E9%80%89%E6%8B%A9">我的个人选择</a></li>
-</ul>
-    </div>
-    <hr>
     
     <div id="markdown-content">
       <p>我的博士研究生经历算是有些曲折。2018年本科毕业后先是在香港中文大学入学读了半年，退学后找了我现在的老板Rynson。2019年重新入学后，经历了两年多的迷茫期，期间尝试了各种不同的研究课题，等到博三时休学实习的半年里才找到一个能让自己投入的方向，然后磕磕绊绊到现在要准备毕业了。</p>
@@ -209,6 +210,9 @@
 </div>
 </div>
 
+          </div>
+        </div>
+        
       
     </div>
 
@@ -236,6 +240,9 @@
   <!-- Medium Zoom JS -->
   <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.8/dist/medium-zoom.min.js" integrity="sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8=" crossorigin="anonymous"></script>
   <script defer src="/assets/js/zoom.js"></script>
+  <!-- Sidebar Table of Contents -->
+  <script defer src="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.js"></script>
+
 
   <!-- Bootstrap Table -->
   <script defer src="https://unpkg.com/bootstrap-table@1.21.4/dist/bootstrap-table.min.js"></script>
