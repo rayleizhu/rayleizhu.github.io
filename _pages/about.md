@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD candiate at City University of Hong Kong under the supervision of [Prof. Rynson W.H. Lau](https://www.cs.cityu.edu.hk/~rynson/). Before that I received my bachelor degree in Computer Science and Engineering from [Dalian University of Technology](https://en.dlut.edu.cn/) (GPA rank 1/102).
 
-I am currently focusing on vision transformer (specifically, [attention mechanism](https://arxiv.org/abs/2303.08810) & pretraining). I am also intrested in hardware-aware deep learning (e.g. works like [FlashAttention](https://arxiv.org/abs/2205.14135) and [TinyCudaNN](https://github.com/NVlabs/tiny-cuda-nn)). I believe in simple and scalable architectures and data-centric deep learning.
+I am currently focusing on vision transformer (specifically, [attention mechanism](https://arxiv.org/abs/2303.08810) & pretraining). I am also intrested in hardware-aware deep learning (e.g. works like [FlashAttention](https://arxiv.org/abs/2205.14135) and [TinyCudaNN](https://github.com/NVlabs/tiny-cuda-nn)) and vision language models (VLM) like (e.g. [Flamingo](https://arxiv.org/abs/2204.14198)). I believe in simple and scalable architectures and data-centric deep learning.
 <!-- (that is, I do not believe that the machine intelligence comes with elaborate and often intricate network modules :)). -->
 
 Previously, I have some experience in 3D vision ([camera-LiDAR calibration](https://github.com/rayleizhu/plcc) and neural radiance field) and [semi-supervised learning](https://arxiv.org/abs/2309.09774). 
