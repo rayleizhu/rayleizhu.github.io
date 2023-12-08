@@ -34,7 +34,7 @@
   contents:
     - title: Vision Transformers
       items: 
-        - designing efficient mechanisms and architectures.
+        - designing efficient attention mechanisms and architectures.
         - basic operators with hardware-awareness.
         - pretraining techniques.
         - multi-modality models.
