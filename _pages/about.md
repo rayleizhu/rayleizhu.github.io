@@ -22,4 +22,5 @@ social: false # includes social icons at the bottom of the page
 I am a PhD candiate at City University of Hong Kong under the supervision of [Prof. Rynson W.H. Lau](https://scholar.google.com/citations?user=KilQqKYAAAAJ&hl=zh-CN). Previously, I received my bachelor degree in Computer Science and Engineering from [Dalian University of Technology](https://en.dlut.edu.cn/) (rank 1/102).
 
 
-<span style="color:red">I am on the job market. If you have any openings related to large (vision-)language models or hardware-aware/efficient neural network design & deployment, I would like to get in contact!</span>.
+
+<span style="color:red">I am on the job market. If you have any openings related to large (vision-)language models or hardware-aware/efficient neural network design & deployment, I would like to get in contact!</span>
