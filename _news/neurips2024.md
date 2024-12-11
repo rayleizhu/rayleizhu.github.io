@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 
-One first-author paper on vision backbone is accepted by NeurIPS 2024. Now all three chapters of my PhD thesis are accepted by top-tier conferences.
+One first-author [paper](https://neurips.cc/virtual/2024/poster/93308) on vision backbone is accepted by NeurIPS 2024.
