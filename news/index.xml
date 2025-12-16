@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>News on Lei&#39;s Website</title>
+    <link>https://rayleizhu.github.io/news/</link>
+    <description>Recent content in News on Lei&#39;s Website</description>
+    <image>
+      <title>Lei&#39;s Website</title>
+      <url>https://rayleizhu.github.io/images/papermod-cover.png</url>
+      <link>https://rayleizhu.github.io/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors </copyright>
+    <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rayleizhu.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Join Tencent AI Lab</title>
+      <link></link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;Start my new journey at Tencent AI Lab as Senior Researcher.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MoESD got accepted by NeurIPS 2025</title>
+      <link></link>
+      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;One paper on MoE speculative decoding has been accepted by NeurIPS 2025 as spotlight.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Deepdiver V2 Release</title>
+      <link></link>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;We have open sourced our multi-agent deep research project &lt;a href=&#34;https://ai.gitcode.com/ascend-tribe/openPangu-Embedded-7B-DeepDiver/blob/main/docs/openpangu-deepdiver-v2-tech-report.pdf&#34;
+   
+    target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   DeepDiverV2
+&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>EMNLP 2025</title>
+      <link></link>
+      <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;One paper on latency-aware test time scaling is accepted by EMNLP Findings.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Invited Talk by UCSD Hao AI Lab</title>
+      <link></link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;Invited talk by &lt;a href=&#34;https://hao-ai-lab.github.io/home/&#34;
+   
+    target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   UCSD Hao AI Lab
+&lt;/a&gt; about &amp;ldquo;Efficient Attention Mechanisms&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NeurIPS Travel Award and Top Reviewer</title>
+      <link></link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;I&amp;rsquo;m pleased to receive NeurIPS travel award and be selected as &lt;a href=&#34;https://neurips.cc/Conferences/2024/ProgramCommittee#top-reviewers&#34;
+   
+    target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   Top Reviewers
+&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>One Paper Accepted by NeurIPS 2024</title>
+      <link></link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;One first-author &lt;a href=&#34;https://neurips.cc/virtual/2024/poster/93308&#34;
+   
+    target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   paper
+&lt;/a&gt; on vision backbone is accepted by NeurIPS 2024.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Passed Oral Defense</title>
+      <link></link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: --&gt;
+&lt;p&gt;I passed my oral defense and became a Dr.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>One Paper Accepted by ECCV 2024</title>
+      <link></link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;One co-authored paper (&lt;a href=&#34;https://arxiv.org/abs/2403.11056&#34;
+   
+    target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   Analytic-Splatting
+&lt;/a&gt;) is accepted by ECCV 2024.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RelayAttention Got Accepted by ACL 2024</title>
+      <link></link>
+      <pubDate>Thu, 16 May 2024 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: --&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2402.14808&#34;
+   
+    target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   RelayAttention
+&lt;/a&gt; got accepted by ACL 2024 main conference.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>One Paper Accepted by CVPR 2024</title>
+      <link></link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;One co-authored paper on inverse rendering (&lt;a href=&#34;https://arxiv.org/abs/2403.16224&#34;
+   
+    target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   NeP
+&lt;/a&gt;) is accepted by CVPR 2024.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Two Papers Accepted by CVPR 2023</title>
+      <link></link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;Two papers (&lt;a href=&#34;https://arxiv.org/abs/2303.08810&#34;
+   
+    target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   BiFormer
+&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://arxiv.org/abs/2303.13511&#34;
+   
+    target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   Neural Preset
+&lt;/a&gt;) are accepted by CVPR 2023.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
