@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Pubs on Lei&#39;s Website</title>
+    <title>Publications on Lei&#39;s Website</title>
     <link>https://rayleizhu.github.io/pubs/</link>
-    <description>Recent content in Pubs on Lei&#39;s Website</description>
+    <description>Recent content in Publications on Lei&#39;s Website</description>
     <image>
       <title>Lei&#39;s Website</title>
       <url>https://rayleizhu.github.io/images/papermod-cover.png</url>
@@ -12,8 +12,29 @@
     <generator>Hugo -- 0.146.0</generator>
     <language>en</language>
     <copyright>ZHU Lei </copyright>
-    <lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rayleizhu.github.io/pubs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Faster and Better LLMs via Latency-Aware Test-Time Scaling</title>
+      <link></link>
+      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>openPangu DeepDiver-V2: Multi-Agent Learning for Deep Information Seeking</title>
+      <link></link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Think Before You Talk: Enhancing Meaningful Dialogue Generation in Full-Duplex Speech Language Models with Planning-Inspired Text Guidance</title>
+      <link></link>
+      <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
     <item>
       <title>MoESD: Unveil Speculative Decoding&#39;s Potential for Accelerating Sparse MoE</title>
       <link></link>
@@ -22,9 +43,23 @@
       <description>&lt;p&gt;Analyze the interplay between the MoE design and speculative decoding.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Revisiting the Integration of Convolution and Attention for Vision Backbone</title>
+      <link></link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration</title>
+      <link></link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
       <title>RelayAttention for Efficient Large Language Model Serving with Long System Prompts</title>
       <link></link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate>
       <guid></guid>
       <description>&lt;p&gt;Accelerates shared prefixes for efficient LLM serving with no approximation. Concurrent works: &lt;a href=&#34;https://scholar.google.com/citations?view_op=view_citation&amp;amp;hl=en&amp;amp;citation_for_view=DnnCWN0AAAAJ:RW1BPcyHXiwC&#34;
    
@@ -41,9 +76,23 @@
 &lt;/a&gt; by FlashInfer team.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Inverse Rendering of Glossy Objects via the Neural Plenoptic Function and Radiance Fields</title>
+      <link></link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Towards Self-Adaptive Pseudo-Label Filtering for Semi-Supervised Learning</title>
+      <link></link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
       <title>BiFormer: Vision Transformer with Bi-Level Routing Attention</title>
       <link></link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
       <guid></guid>
       <description>&lt;p&gt;Pioneering work on introducing MoE-like dynamic block sparsity into attention. Similar ideas were later popularized by &lt;a href=&#34;https://arxiv.org/abs/2502.11089&#34;
    
@@ -54,6 +103,27 @@
     target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
    Kimi MoBA
 &lt;/a&gt; in early 2025.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Neural Preset for Color Style Transfer</title>
+      <link></link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Harmonizer: Learning to perform white-box image and video harmonization</title>
+      <link></link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mitigating intensity bias in shadow detection via feature decomposition and reweighting</title>
+      <link></link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
     </item>
   </channel>
 </rss>
