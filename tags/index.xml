@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Lei&#39;s Website</title>
-    <link>https://rayleizhu.github.io/tags/</link>
+    <link>https://rayleizhu.com/tags/</link>
     <description>Recent content in Tags on Lei&#39;s Website</description>
     <image>
       <title>Lei&#39;s Website</title>
-      <url>https://rayleizhu.github.io/images/papermod-cover.png</url>
-      <link>https://rayleizhu.github.io/images/papermod-cover.png</link>
+      <url>https://rayleizhu.com/images/papermod-cover.png</url>
+      <link>https://rayleizhu.com/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.146.0</generator>
     <language>en</language>
     <copyright>ZHU Lei </copyright>
     <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://rayleizhu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rayleizhu.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docs</title>
-      <link>https://rayleizhu.github.io/tags/docs/</link>
+      <link>https://rayleizhu.com/tags/docs/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://rayleizhu.github.io/tags/docs/</guid>
+      <guid>https://rayleizhu.com/tags/docs/</guid>
       <description></description>
     </item>
     <item>
       <title>PaperMod</title>
-      <link>https://rayleizhu.github.io/tags/papermod/</link>
+      <link>https://rayleizhu.com/tags/papermod/</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://rayleizhu.github.io/tags/papermod/</guid>
+      <guid>https://rayleizhu.com/tags/papermod/</guid>
       <description></description>
     </item>
     <item>
       <title>Code</title>
-      <link>https://rayleizhu.github.io/tags/code/</link>
+      <link>https://rayleizhu.com/tags/code/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://rayleizhu.github.io/tags/code/</guid>
+      <guid>https://rayleizhu.com/tags/code/</guid>
       <description></description>
     </item>
     <item>
       <title>Gist</title>
-      <link>https://rayleizhu.github.io/tags/gist/</link>
+      <link>https://rayleizhu.com/tags/gist/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://rayleizhu.github.io/tags/gist/</guid>
+      <guid>https://rayleizhu.com/tags/gist/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>https://rayleizhu.github.io/tags/markdown/</link>
+      <link>https://rayleizhu.com/tags/markdown/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://rayleizhu.github.io/tags/markdown/</guid>
+      <guid>https://rayleizhu.com/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>https://rayleizhu.github.io/tags/privacy/</link>
+      <link>https://rayleizhu.com/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://rayleizhu.github.io/tags/privacy/</guid>
+      <guid>https://rayleizhu.com/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>https://rayleizhu.github.io/tags/shortcodes/</link>
+      <link>https://rayleizhu.com/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://rayleizhu.github.io/tags/shortcodes/</guid>
+      <guid>https://rayleizhu.com/tags/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>Syntax</title>
-      <link>https://rayleizhu.github.io/tags/syntax/</link>
+      <link>https://rayleizhu.com/tags/syntax/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://rayleizhu.github.io/tags/syntax/</guid>
+      <guid>https://rayleizhu.com/tags/syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji</title>
-      <link>https://rayleizhu.github.io/tags/emoji/</link>
+      <link>https://rayleizhu.com/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://rayleizhu.github.io/tags/emoji/</guid>
+      <guid>https://rayleizhu.com/tags/emoji/</guid>
       <description></description>
     </item>
   </channel>
