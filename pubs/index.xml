@@ -12,8 +12,15 @@
     <generator>Hugo -- 0.146.0</generator>
     <language>en</language>
     <copyright>ZHU Lei </copyright>
-    <lastBuildDate>Sun, 12 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.rayleizhu.com/pubs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking</title>
+      <link></link>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;Replaces attention distillation with end-to-end context ranking under the language modeling loss, outperforming distillation baselines on reasoning, long-context and agentic tasks.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>GRPO-VPS: Enhancing Group Relative Policy Optimization with Verifiable Process Supervision for Effective Reasoning</title>
       <link></link>

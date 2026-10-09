@@ -12,8 +12,19 @@
     <generator>Hugo -- 0.146.0</generator>
     <language>en</language>
     <copyright>ZHU Lei </copyright>
-    <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://www.rayleizhu.com/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SAS Got Accepted by NeurIPS 2026</title>
+      <link></link>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description>&lt;p&gt;One paper on end-to-end attention sparsification, &lt;a href=&#34;https://arxiv.org/abs/2609.13141&#34;
+   
+    target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+   SAS
+&lt;/a&gt;, got accepted by NeurIPS 2026.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Join Tencent AI Lab</title>
       <link></link>
