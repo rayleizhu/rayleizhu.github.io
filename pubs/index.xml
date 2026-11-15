@@ -22,6 +22,13 @@
       <description>&lt;p&gt;Replaces attention distillation with end-to-end context ranking under the language modeling loss, outperforming distillation baselines on reasoning, long-context and agentic tasks.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Think Before You Talk: Enhancing Meaningful Dialogue Generation in Full-Duplex Speech Language Models with Planning-Inspired Text Guidance</title>
+      <link></link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
       <title>GRPO-VPS: Enhancing Group Relative Policy Optimization with Verifiable Process Supervision for Effective Reasoning</title>
       <link></link>
       <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
@@ -53,13 +60,6 @@
       <title>openPangu DeepDiver-V2: Multi-Agent Learning for Deep Information Seeking</title>
       <link></link>
       <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
-      <guid></guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Think Before You Talk: Enhancing Meaningful Dialogue Generation in Full-Duplex Speech Language Models with Planning-Inspired Text Guidance</title>
-      <link></link>
-      <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
       <guid></guid>
       <description></description>
     </item>
